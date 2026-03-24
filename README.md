@@ -1,5 +1,3 @@
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Aryan-1236/fairness-aware-ensemble-learning/blob/main/fairness_ensemble_project.ipynb)
-
 # Bias-Resilient Ensemble Models for Fair Decision Systems
 
 This project implements fairness-aware ensemble learning techniques to reduce bias in machine learning models across multiple real-world domains.
